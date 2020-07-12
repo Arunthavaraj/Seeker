@@ -1,6 +1,6 @@
-# seeker
+# Seeker
 
-A new Flutter project.
+A flutter project to enhance the travelling experience with inbuiltchat application connected to firebase as the backend.
 
 ## Getting Started
 
