@@ -1,0 +1,4 @@
+AIzaSyANNWuNwbjxkTpwLxtZdQ-zo-2KXVQoEEM
+
+
+keytool -list -v \ -alias androiddebugkey -keystore %USERPROFILE%\.android\debug.keystore

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895339194017",
+    "firebase_url": "https://secret-willow-271105.firebaseio.com",
+    "project_id": "secret-willow-271105",
+    "storage_bucket": "secret-willow-271105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895339194017:android:7f012457539462590fb2e0",
+        "android_client_info": {
+          "package_name": "com.example.seeker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895339194017-9ep9gi0cbql1cu4rjk8397f7g137bbfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seeker",
+            "certificate_hash": "e6ae05ff963feb78a931932de93fbf7081e1f396"
+          }
+        },
+        {
+          "client_id": "895339194017-rjl5bu06aonijindicogse2gpvo848mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEH8q5JB2pQCFYOhAiHRgMCfvZ1shxuaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895339194017-rjl5bu06aonijindicogse2gpvo848mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
